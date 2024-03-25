@@ -11,6 +11,7 @@ The primary objective is to forecast cryptocurrency's 15-minute returns from pre
 - Bitcoin data in isolation.
 - A combination of Bitcoin + Ethereum data.
 - A combination of Bitcoin + Ethereum + Cardano data<br />
+
 This endeavor seeks to understand the impact of incorporating multiple cryptocurrencies on the accuracy of Bitcoin return predictions.
 
 **Approach**
