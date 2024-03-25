@@ -2,7 +2,7 @@
 
 **Introduction**
 
-This project 'ultivariate Time Series Forecasting: ​Evaluating Price Prediction of Cryptocurrencies' aims to predict Bitcoin returns for a 15-minutes from present period in isolation and when combined with other major cryptocurrencies like Ethereum and Cardano. Through exploratory data analysis, data preprocessing, and employing LSTM models, we explore the intricacies of cryptocurrency price movements and attempt to forecast Bitcoin's short-term returns.
+This project aims to predict Bitcoin returns for a 15-minutes from present period in isolation and when combined with other major cryptocurrencies like Ethereum and Cardano. Through exploratory data analysis, data preprocessing, and employing LSTM models, we explore the intricacies of cryptocurrency price movements and attempt to forecast Bitcoin's short-term returns.
 
 **Objective**
 
