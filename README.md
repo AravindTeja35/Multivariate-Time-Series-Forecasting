@@ -8,9 +8,9 @@ This project aims to predict Bitcoin returns for a 15-minutes from present perio
 
 The primary objective is to forecast cryptocurrency's 15-minute returns from present period using:
 
-Bitcoin data in isolation.
-A combination of Bitcoin + Ethereum data.
-A combination of Bitcoin + Ethereum + Cardano data
+- Bitcoin data in isolation.
+- A combination of Bitcoin + Ethereum data.
+- A combination of Bitcoin + Ethereum + Cardano data
 This endeavor seeks to understand the impact of incorporating multiple cryptocurrencies on the accuracy of Bitcoin return predictions.
 
 **Approach**
@@ -24,16 +24,17 @@ Our analysis is based on a comprehensive dataset that includes:
 
 **Methodology**
 
-Exploratory Data Analysis (EDA): Analyzed null values, gaps, and distributions. Identified correlations among cryptocurrencies.
-Data Preprocessing: Included null value imputation, gap filling, log transformations, and feature engineering.
-Modelling: Utilized LSTM models to forecast cryptocurrency's 15-minute returns. The models were evaluated based on Mean Squared Error (MSE) and Mean Absolute Error (MAE) metrics.
-Findings and Comparison
+Our methodology follows as:
+
+- Exploratory Data Analysis (EDA): Analyzed null values, gaps, and distributions. Identified correlations among cryptocurrencies.<br />
+- Data Preprocessing: Included null value imputation, gap filling, log transformations, and feature engineering.<br />
+- Modelling: Utilized LSTM models to forecast cryptocurrency's 15-minute returns. The models were evaluated based on Mean Squared Error (MSE) and Mean Absolute Error (MAE) metrics.
 
 Three LSTM models were developed:
 
-Model 1: Bitcoin
-Model 2: Bitcoin + Ethereum
-Model 3: Bitcoin + Ethereum + Cardano.
+- Model 1: Bitcoin
+- Model 2: Bitcoin + Ethereum
+- Model 3: Bitcoin + Ethereum + Cardano.
 
 **Conclusion**
 
