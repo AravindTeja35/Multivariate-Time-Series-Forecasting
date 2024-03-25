@@ -37,4 +37,6 @@ Model 3: Bitcoin + Ethereum + Cardano.
 
 **Conclusion**
 
+![image](https://github.com/AravindTeja35/Multivariate-Time-Series-Forecasting/assets/163460197/fb224e06-0437-4a62-9b1a-2e020595d53a)
+
 Among all the three models, the model with three different crypto assets (Bitcoin + Ethereum + Cardano) has performed well compared to the other two models due to diversified nature of data. Additionally, our project illustrates the potential of LSTM models in forecasting cryptocurrency returns. By incorporating data from multiple cryptocurrencies, we achieve better prediction accuracy, highlighting the interconnectedness of the cryptocurrency market.
